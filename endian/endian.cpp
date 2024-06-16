@@ -1,7 +1,8 @@
+#include "endian.hpp"
+
+#include <cstring>
 #include <iostream>
 #include <memory>
-
-#include "endian.hpp"
 
 struct Options {
     /* non-functional options */

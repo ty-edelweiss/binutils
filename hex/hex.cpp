@@ -1,10 +1,12 @@
-#include <iostream>
-#include <ios>
-#include <iterator>
-#include <cstdlib>
-#include <cctype>
-
 #include "hex.hpp"
+
+#include <algorithm>
+#include <cctype>
+#include <cstring>
+#include <ios>
+#include <iostream>
+#include <memory>
+#include <string>
 
 struct Options {
     /* non-functional options */
